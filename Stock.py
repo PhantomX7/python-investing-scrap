@@ -5,3 +5,5 @@ class Stock:
         self.link = link
     def setBalanceSheet(self,balance_sheet):
         self.balance_sheet = balance_sheet
+    def setIncomeStatement(self, income_statement):
+        self.income_statement = income_statement
